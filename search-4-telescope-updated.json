@@ -1,0 +1,248 @@
+{
+  "results": [
+    {
+      "name": "cljoly/telescope-repo.nvim",
+      "url": "https://github.com/cljoly/telescope-repo.nvim",
+      "description": "Telescope picker to jump to any repository (git or other) on the file system.",
+      "tags": [
+        "project"
+      ],
+      "score": 0.000009,
+      "stars": 157
+    },
+    {
+      "name": "nvim-telescope/telescope.nvim",
+      "url": "https://github.com/nvim-telescope/telescope.nvim",
+      "description": "Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.",
+      "tags": [
+        "fuzzy finder"
+      ],
+      "score": 0.000009,
+      "stars": 10400
+    },
+    {
+      "name": "jvgrootveld/telescope-zoxide",
+      "url": "https://github.com/jvgrootveld/telescope-zoxide",
+      "description": "Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.",
+      "tags": [
+        "fuzzy finder"
+      ],
+      "score": 0.000032,
+      "stars": 191
+    },
+    {
+      "name": "debugloop/telescope-undo.nvim",
+      "url": "https://github.com/debugloop/telescope-undo.nvim",
+      "description": "A telescope extension to visualize your undo tree and fuzzy-search changes in it.",
+      "tags": [
+        "editing support"
+      ],
+      "score": 0.000114,
+      "stars": 249
+    },
+    {
+      "name": "desdic/telescope-rooter.nvim",
+      "url": "https://github.com/desdic/telescope-rooter.nvim",
+      "description": "Makes sure to always start telescope (and only telescope) from the project/root directory.",
+      "tags": [
+        "project"
+      ],
+      "score": 0.000166,
+      "stars": 16
+    },
+    {
+      "name": "LinArcX/telescope-command-palette.nvim",
+      "url": "https://github.com/LinArcX/telescope-command-palette.nvim",
+      "description": "Lua plugin to create key-bindings and watch them with telescope.",
+      "tags": [
+        "keybinding"
+      ],
+      "score": 0.000512,
+      "stars": 259
+    },
+    {
+      "name": "danielpieper/telescope-tmuxinator.nvim",
+      "url": "https://github.com/danielpieper/telescope-tmuxinator.nvim",
+      "description": "Integration for tmuxinator with telescope.nvim.",
+      "tags": [
+        "split and window",
+        "tmux"
+      ],
+      "score": 0.000793,
+      "stars": 17
+    },
+    {
+      "name": "otavioschwanck/telescope-alternate.nvim",
+      "url": "https://github.com/otavioschwanck/telescope-alternate.nvim",
+      "description": "Alternate between common files using telescope.",
+      "tags": [
+        "project"
+      ],
+      "score": 0.001499,
+      "stars": 74
+    },
+    {
+      "name": "LukasPietzschmann/telescope-tabs",
+      "url": "https://github.com/LukasPietzschmann/telescope-tabs",
+      "description": "Quickly navigate between tabs using telescope.",
+      "tags": [
+        "utility"
+      ],
+      "score": 0.002534,
+      "stars": 138
+    },
+    {
+      "name": "EthanJWright/vs-tasks.nvim",
+      "url": "https://github.com/EthanJWright/vs-tasks.nvim",
+      "description": "Telescope picker for VSCode style tasks.",
+      "tags": [
+        "code runner"
+      ],
+      "score": 0.003565,
+      "stars": 122
+    },
+    {
+      "name": "gennaro-tedesco/nvim-jqx",
+      "url": "https://github.com/gennaro-tedesco/nvim-jqx",
+      "description": "Interactive interface for JSON files.",
+      "tags": [
+        "programming languages support"
+      ],
+      "score": 0.070616,
+      "stars": 241
+    },
+    {
+      "name": "gennaro-tedesco/nvim-peekup",
+      "url": "https://github.com/gennaro-tedesco/nvim-peekup",
+      "description": "Dynamically interact with Vim registers.",
+      "tags": [
+        "register"
+      ],
+      "score": 0.070616,
+      "stars": 241
+    },
+    {
+      "name": "gennaro-tedesco/nvim-commaround",
+      "url": "https://github.com/gennaro-tedesco/nvim-commaround",
+      "description": "Fast and light commenting plugin written in Lua.",
+      "tags": [
+        "editing support",
+        "comment"
+      ],
+      "score": 0.070616,
+      "stars": 40
+    },
+    {
+      "name": "gennaro-tedesco/nvim-possession",
+      "url": "https://github.com/gennaro-tedesco/nvim-possession",
+      "description": "The no-nonsense session manager.",
+      "tags": [
+        "session"
+      ],
+      "score": 0.070616,
+      "stars": 97
+    },
+    {
+      "name": "gennaro-tedesco/boilit",
+      "url": "https://github.com/gennaro-tedesco/boilit",
+      "description": "Create boilerplate structure plugins.",
+      "tags": [
+        "boilerplate"
+      ],
+      "score": 0.070616,
+      "stars": 62
+    },
+    {
+      "name": "max397574/better-escape.nvim",
+      "url": "https://github.com/max397574/better-escape.nvim",
+      "description": "Create shortcuts to escape insert mode without getting delay.",
+      "tags": [
+        "keybinding"
+      ],
+      "score": 0.099467,
+      "stars": 364
+    },
+    {
+      "name": "xeluxee/competitest.nvim",
+      "url": "https://github.com/xeluxee/competitest.nvim",
+      "description": "A plugin to automate testcases management and checking for Competitive Programming contests.",
+      "tags": [
+        "game",
+        "competitive programming"
+      ],
+      "score": 0.113693,
+      "stars": 209
+    },
+    {
+      "name": "desdic/agrolens.nvim",
+      "url": "https://github.com/desdic/agrolens.nvim",
+      "description": "Navigate via Tree-sitter nodes using Telescope.",
+      "tags": [
+        "syntax"
+      ],
+      "score": 0.444276,
+      "stars": 41
+    },
+    {
+      "name": "acksld/nvim-neoclip.lua",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua",
+      "description": "Clipboard manager Neovim plugin with telescope integration.",
+      "tags": [
+        "register"
+      ],
+      "score": 0.471586,
+      "stars": 711
+    },
+    {
+      "name": "RutaTang/spectacle.nvim",
+      "url": "https://github.com/RutaTang/spectacle.nvim",
+      "description": "Easily manage multiple sessions with telescope integration.",
+      "tags": [
+        "session"
+      ],
+      "score": 0.471586,
+      "stars": 7
+    },
+    {
+      "name": "axkirillov/easypick.nvim",
+      "url": "https://github.com/axkirillov/easypick.nvim",
+      "description": "Easypick lets you easily create Telescope pickers from arbitrary console commands.",
+      "tags": [
+        "fuzzy finder"
+      ],
+      "score": 0.502471,
+      "stars": 258
+    },
+    {
+      "name": "TobinPalmer/rayso.nvim",
+      "url": "https://github.com/TobinPalmer/rayso.nvim",
+      "description": "Create code snippets in Neovim using [ray.so](https://ray.so).",
+      "tags": [
+        "snippet"
+      ],
+      "score": 0.578155,
+      "stars": 23
+    },
+    {
+      "name": "stevearc/dressing.nvim",
+      "url": "https://github.com/stevearc/dressing.nvim",
+      "description": "Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.",
+      "tags": [
+        "utility"
+      ],
+      "score": 0.596207,
+      "stars": 1100
+    },
+    {
+      "name": "camspiers/snap",
+      "url": "https://github.com/camspiers/snap",
+      "description": "An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.",
+      "tags": [
+        "fuzzy finder"
+      ],
+      "score": 0.632787,
+      "stars": 400
+    }
+  ],
+  "total": 24
+}
